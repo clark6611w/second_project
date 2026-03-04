@@ -1,17 +1,45 @@
-# second_project
+# لعبة مطابقة الصور – Image Match Game
 
-A new Flutter project.
+هذا المشروع عبارة عن لعبة بسيطة تم تطويرها باستخدام **Flutter**، تعتمد على فكرة الحظ والتركيز.
+يقوم التطبيق بعرض صورتين، ويمكن للمستخدم النقر عليهما لمعرفة إذا كانتا متطابقتين أم لا.
 
-## Getting Started
+إذا كانت الصورتان **متطابقتين** يفوز اللاعب، وإذا كانتا **مختلفتين** يخسر ويحاول مرة أخرى.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## فكرة اللعبة
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+اللعبة تعتمد على تجربة بسيطة وسريعة حيث يتم عرض صورتين عشوائيتين، ويقوم اللاعب بالضغط عليهما لمعرفة النتيجة.
+الهدف هو اختبار الحظ أو محاولة الحصول على صورتين متطابقتين.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## مميزات اللعبة
+
+* واجهة بسيطة وسهلة الاستخدام
+* اختيار الصور بشكل **عشوائي**
+* إمكانية المحاولة عدة مرات
+* تطبيق خفيف وسريع
+* مناسب للتعلم وبناء أساسيات Flutter
+
+---
+
+## التقنيات المستخدمة
+
+* Flutter
+* Dart
+* Material Design
+
+---
+
+## هدف المشروع
+
+تم تطوير هذه اللعبة كجزء من رحلتي في تعلم **تطوير تطبيقات Flutter**، حيث ساعدني هذا المشروع على فهم:
+
+* التعامل مع **الأحداث (User Interaction)**
+* استخدام **الصور داخل التطبيق**
+* تطبيق **المنطق البرمجي البسيط للألعاب**
+
+---
+
+هذا المشروع يمثل خطوة أخرى في تطوير مهاراتي في **برمجة تطبيقات الموبايل باستخدام Flutter**.
